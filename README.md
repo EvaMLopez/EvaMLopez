@@ -10,9 +10,7 @@
 
  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
   
-### Tools
-**Languages and Tools:**  
-
+### Languages and Tools
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCODE" alt="VSCODE" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -32,7 +30,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
 </div>
 
-### 📫 How to reach me:
+***
+
+### How to reach me
 <p align="left">
 <a href="mailto:contactevamlopez@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="correo eva lópez" height="30" width="40" />contactevamlopez@gmail.com</a>
 
@@ -42,7 +42,7 @@
 
 ### My GitHub Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=EvaMLopez&theme=tokyonight&show_icons=true" />
-<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvaMLopez&theme=tokyonight&show_icons=true" />
+<img float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvaMLopez&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" />
 
 ***
 #### Have a Great Day! 
