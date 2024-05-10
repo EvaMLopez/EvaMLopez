@@ -32,13 +32,13 @@
 
 ***
 ### How to reach me
-<p align="left">
-<a href="https://www.linkedin.com/in/eva-m-l%C3%B3pez/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" alt="correo eva lópez" height="120" width="160" /></a>
+<a href="https://www.linkedin.com/in/eva-m-l%C3%B3pez/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LINKEDIN eva lópez" height="35" width="35" /></a>
 
 ***
-### Profile Views             <img align="center" height="25" src="https://profile-counter.glitch.me/EvaMLopez/count.svg" />
-***
+### Profile Views             
+<img align="center" height="25" src="https://profile-counter.glitch.me/EvaMLopez/count.svg"/>
 
+***
 ### My GitHub Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=EvaMLopez&theme=tokyonight&show_icons=true" />
 <img float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvaMLopez&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" />
