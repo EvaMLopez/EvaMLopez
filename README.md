@@ -31,10 +31,9 @@
 </div>
 
 ***
-
 ### How to reach me
 <p align="left">
-<a href="mailto:contactevamlopez@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="correo eva lópez" height="30" width="40" />contactevamlopez@gmail.com</a>
+<a href="https://www.linkedin.com/in/eva-m-l%C3%B3pez/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" alt="correo eva lópez" height="120" width="160" /></a>
 
 ***
 ### Profile Views             <img align="center" height="25" src="https://profile-counter.glitch.me/EvaMLopez/count.svg" />
