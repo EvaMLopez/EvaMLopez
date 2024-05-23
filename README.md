@@ -4,14 +4,18 @@
 ### About Me
 🔭 I would like to change my job sector and be able to work as a web developer.
 
-🌱 I’m currently learning a fullstack bootcamp at Factoria F5. 
+🌱 Recently, I completed an intensive bootcamp at Factoría 5, where I learned to build web applications from scratch and deploy them on the AWS Cloud.
+
+💼 Certifications: 
+- AWS Certified Cloud Practitioner
 
 ***
 
  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-  
+ 
 ### Languages and Tools
-<div>
+<div> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCODE" alt="VSCODE" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp;
@@ -29,6 +33,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
 </div>
+
 
 ***
 ### How to reach me
