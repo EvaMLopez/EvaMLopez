@@ -1,18 +1,29 @@
-![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif)
-# Eva 👋
 
+![text (2)](https://github.com/EvaMLopez/EvaMLopez/assets/146746288/531c0587-1db9-4005-a083-41a8298d827a)
 ### About Me
-🔭 I would like to change my job sector and be able to work as a web developer.
 
-🌱 Recently, I completed an intensive bootcamp at Factoría 5, where I learned to build web applications from scratch and deploy them on the AWS Cloud.
+🤗 Welcome to my GitHub profile!
 
-💼 Certifications: 
+🔭 I am actively transitioning to a career in web development and continuously honing my skills.
+
+🌱 I recently completed an intensive bootcamp at Factoría 5, where I learned to build web applications from scratch and deploy them on the AWS Cloud.
+
+💼 Certifications:
+
 - AWS Certified Cloud Practitioner
+  
+🚀 Currently, I am furthering my knowledge and experience by working on personal projects. These projects allow me to apply what I've learned, experiment with new technologies, and continuously improve my development skills.
 
 ***
 
  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
  
+ ### How to reach me
+
+<a href="https://www.linkedin.com/in/eva-m-l%C3%B3pez/"><img alt="LinkedIn Eva López" src="https://img.shields.io/badge/LinkedIn-Eva%20López-blue?style=flat-square&logo=linkedin"></a>
+
+
+***
 ### Languages and Tools
 <div> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
@@ -36,10 +47,7 @@
 
 
 ***
-### How to reach me
-<a href="https://www.linkedin.com/in/eva-m-l%C3%B3pez/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LINKEDIN eva lópez" height="35" width="35" /></a>
 
-***
 ### Profile Views             
 <img align="center" height="25" src="https://profile-counter.glitch.me/EvaMLopez/count.svg"/>
 
