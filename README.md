@@ -15,13 +15,11 @@
 🚀 Currently, I am furthering my knowledge and experience by working on personal projects. These projects allow me to apply what I've learned, experiment with new technologies, and continuously improve my development skills.
 
 ***
-
  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
  
  ### How to reach me
 
 <a href="https://www.linkedin.com/in/eva-m-l%C3%B3pez/"><img alt="LinkedIn Eva López" src="https://img.shields.io/badge/LinkedIn-Eva%20López-blue?style=flat-square&logo=linkedin"></a>
-
 
 ***
 ### Languages and Tools
@@ -45,7 +43,6 @@
 </div>
 
 ***
-
 ### Profile Views             
 <img align="center" height="25" src="https://profile-counter.glitch.me/EvaMLopez/count.svg"/>
 
@@ -53,6 +50,7 @@
 ### My GitHub Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=EvaMLopez&theme=tokyonight&show_icons=true" />
 <img float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvaMLopez&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" />
+<img float="right" src="https://github-readme-streak-stats.herokuapp.com/?user=EvaMLopez&theme=tokyonight&layout=compact" />
 
 ***
 #### Have a Great Day! 
