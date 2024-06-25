@@ -1,6 +1,7 @@
 
 ![text (2)](https://github.com/EvaMLopez/EvaMLopez/assets/146746288/531c0587-1db9-4005-a083-41a8298d827a)
-### About Me
+
+### <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 35px> About Me
 
 🤗 Welcome to my GitHub profile!
 
@@ -15,14 +16,15 @@
 🚀 Currently, I am furthering my knowledge and experience by working on personal projects. These projects allow me to apply what I've learned, experiment with new technologies, and continuously improve my development skills.
 
 ***
- <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+ <img align="right" alt="coding"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
  
  ### How to reach me
 
 <a href="https://www.linkedin.com/in/eva-m-l%C3%B3pez/"><img alt="LinkedIn Eva López" src="https://img.shields.io/badge/LinkedIn-Eva%20López-blue?style=flat-square&logo=linkedin"></a>
 
 ***
-### Languages and Tools
+###  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">   Languages and Tools
 <div> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCODE" alt="VSCODE" width="40" height="40"/>&nbsp;
@@ -47,7 +49,8 @@
 <img align="center" height="25" src="https://profile-counter.glitch.me/EvaMLopez/count.svg"/>
 
 ***
-### My GitHub Stats
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">  My GitHub Stats
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=EvaMLopez&theme=tokyonight&show_icons=true" />
 <img float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvaMLopez&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" />
 <img float="right" src="https://github-readme-streak-stats.herokuapp.com/?user=EvaMLopez&theme=tokyonight&layout=compact" />
